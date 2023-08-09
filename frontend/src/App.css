@@ -1,0 +1,19 @@
+#main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 75px 0;
+}
+
+#sign-in-form {
+  max-width: 330px;
+}
+
+.bootstrap-logo {
+  width: 72px;
+  height: 72px;
+}
+
+.form-control:focus {
+  z-index: 5;
+}
